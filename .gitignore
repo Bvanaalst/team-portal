@@ -1,2 +1,3 @@
 __pycache__
-api/TeamPortalApi/db.sqlite3
+db.sqlite3
+.vscode
