@@ -1,5 +1,5 @@
 """
-WSGI config for TeamPortalApi project.
+WSGI config for TeamPortal project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'TeamPortalApi.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'TeamPortal.settings')
 
 application = get_wsgi_application()
