@@ -15,4 +15,5 @@ const MijnOverzichtStack = () => (
 )
 
 export default MijnOverzichtStack
+
 export type { MijnOverzichtStackParamList }

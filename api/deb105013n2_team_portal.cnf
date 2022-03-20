@@ -1,0 +1,6 @@
+[client]
+database = deb105013n2_team_portal
+user = root
+password = volleybal
+default-character-set = utf8
+host = localhost
