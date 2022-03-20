@@ -4,8 +4,8 @@ cd team-porta/api
 
 ### (optional) Maak een virtual environment en activeer
 
-`python -m venv env`
-On Windows use: `env\Scripts\activate`
+`python -m venv env` <br />
+On Windows use: `env\Scripts\activate` <br />
 On linux use: `source env/bin/activate`
 
 ### Install docker and after that, run docker compose
