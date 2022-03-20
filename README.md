@@ -8,7 +8,7 @@ python -m venv env
 
 ### (optional) Activate virtual environment
 
-## On Windows use
+### On Windows use
 
 env\Scripts\activate
 
